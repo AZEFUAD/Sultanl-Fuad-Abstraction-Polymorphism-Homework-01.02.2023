@@ -1,0 +1,2 @@
+C:\Users\Afqan\source\repos\Sultanlı Fuad Abstraction, Polymorphism Homework 01.02.2023\Sultanlı Fuad Abstraction, Polymorphism Homework 01.02.2023\obj\Debug\net6.0\Sultanlı Fuad Abstraction, Polymorphism Homework 01.02.2023.csproj.AssemblyReference.cache
+C:\Users\Afqan\source\repos\Sultanlı Fuad Abstraction, Polymorphism Homework 01.02.2023\Sultanlı Fuad Abstraction, Polymorphism Homework 01.02.2023\obj\Debug\net6.0\Sultanlı Fuad Abstraction, Polymorphism Homework 01.02.2023.GeneratedMSBuildEditorConfig.editorconfig
